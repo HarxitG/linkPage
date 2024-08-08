@@ -2,9 +2,9 @@
 React application for managing and sharing links, built with Vite, React, Tailwind CSS, and React Router DOM. The application includes a Login page, Signup page, User page, and a Landing page.
 
 ## Prerequisites
-ReactJS
-Vite
-Tailwind CSS: Basic knowledge of Tailwind CSS for styling.
+ReactJS<br/>
+Vite<br/>
+Tailwind CSS: Basic knowledge of Tailwind CSS for styling.<br/>
 React Router DOM: Understanding of React Router DOM for routing and navigation.
 
 ## Getting started
